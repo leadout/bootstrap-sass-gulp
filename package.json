@@ -1,0 +1,51 @@
+{
+  "name": "bootstap-sass-gulp",
+  "description": "Very simple starter kit using bootstrap sass and gulp",
+  "version": "0.0.1",
+  "license": "MIT",
+  "authors": [
+  "Raphael Martinez <raphael.mg1982@gmail.com>"
+  ],
+  "main": "app/js/app.js",
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "bower",
+    "gulp",
+    "kit"
+  ],
+  "dependencies": {
+    "uglify-js": "~2.4.20"
+  },
+  "devDependencies": {
+    "babelify": "^6.0.2",
+    "browser-sync": "^2.6.4",
+    "browserify": "~6.2.0",
+    "debowerify": "^1.2.1",
+    "del": "^1.1.1",
+    "envify": "~3.0.0",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^1.3.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "http": "0.0.0",
+    "morgan": "^1.5.2",
+    "node-sass": "^2.1.1",
+    "run-sequence": "^1.0.2",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "~2.1.0"
+  },
+  "browserify": {
+    "transform": [
+      "envify"
+    ]
+  }
+}
