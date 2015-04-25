@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-sass-gulp",
+  "version": "0.0.0",
+  "authors": [
+    "Raphael Martinez <raphael.mg1982@gmail.com>"
+  ],
+  "description": "bower bootstrap-sass",
+  "main": "app/app.scss",
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4"
+  }
+}
