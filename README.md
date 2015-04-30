@@ -1,4 +1,4 @@
-# bootstarp-sass-gulp
+# bootstrap-sass-gulp
 ### A starter project with bootstrap sass and gulp
 
 Features:
@@ -12,7 +12,7 @@ Features:
 - Bootstrap sass
 - Be consistent, with the [.editorconfig file](http://editorconfig.org/) your coding style will be the same across IDEs & editors (adapt it to your coding preferences)
 
-## How to use such-react-kit
+## How to use bootstrap-sass-gulp
 
 * `git clone https://github.com/leadout/bootstrap-sass-gulp.git` to clone the **bootstrap-sass-gulp** repository
 * `cd bootstrap-sass-gulp`
